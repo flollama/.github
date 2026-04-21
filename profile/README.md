@@ -1,10 +1,6 @@
 # Flollama
-
-Building open and accessible AI systems.
-
----
-
 ## Overview
+Building open and accessible AI systems.
 
 Flollama is an open AI initiative founded by [Pratyush Kumar](https://github.com/pratyush0898).
 
@@ -66,8 +62,6 @@ Flollama is currently developed and maintained by its creator.
 External contributions are not actively managed, but discussions, forks, and independent improvements are permitted within license terms.
 
 ---
-
-## License
 
 ## License
 
